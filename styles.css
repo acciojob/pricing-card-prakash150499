@@ -1,1 +1,33 @@
 /*  your css code here. If applicable */
+
+.card{
+	background-color:lightgrey;
+	width:320px;
+	padding:20px;
+	box-shadow:5px 5px 10px grey;
+	text-align:center;
+	border-rdaius:5px;
+	
+}
+.card>img{
+	alignment:center;
+	height:200px;
+		padding-top:35px;
+}
+.card>h1{
+	color:white;
+	color:black;
+}
+
+.card>p{
+	color:black;
+	font-weight:900;
+}
+button{
+	background-color:red;
+	padding:15px;
+	border-radius:5px;
+	border:none;
+	font-weight:600;
+	color:white;
+}
